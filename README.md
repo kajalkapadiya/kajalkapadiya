@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkapadiya&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkapadiya" /> </p>
 
-- 🔭 I’m currently working on **Building Full Stack Apps using Next JS**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 💬 Ask me about **HTML,CSS,JavaScript,React.js**
 
 - 📫 How to reach me **kajalkapadiya18@gmail.com**
